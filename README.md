@@ -16,11 +16,10 @@ HackerRank
 
 InterviewBit
 
-Each solution will be implemented in [Your Preferred Language(s)], and I will follow best practices for coding, optimization, and readability.
+Each solution will be implemented in JAVA, and I will follow best practices for coding, optimization, and readability.
 📂 Repository Structure
 The repository is structured as follows:
-scss
-Copy code
+
 
 📦 DSA-Daily-Practice
 
@@ -51,7 +50,7 @@ Prepare for technical interviews 🔥
 Clone this repository
 bash
 Copy code
-git clone https://github.com/yourusername/DSA-Daily-Practice.git
+git clone https://github.com/pj9898/DSA-Daily-Practice.git
 cd DSA-Daily-Practice
 Check solutions by topic
 Track progress in progress.md
