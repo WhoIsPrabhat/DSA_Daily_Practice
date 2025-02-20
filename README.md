@@ -4,6 +4,7 @@
 Welcome to the DSA Daily Practice repository! 🚀 Here, I will be solving Data Structures and Algorithms (DSA) problems daily and committing my solutions to maintain consistency and track my progress.
 📌 About This Repository
 This repository serves as a personal archive for my DSA journey, where I will be solving problems from various platforms like:
+
 LeetCode
 
 CodeChef
@@ -50,7 +51,7 @@ Prepare for technical interviews 🔥
 Clone this repository
 bash
 Copy code
-git clone https://github.com/pj9898/DSA-Daily-Practice.git
+git clone https://github.com/pj9898/DSA_Daily_Practice.git
 cd DSA-Daily-Practice
 Check solutions by topic
 Track progress in progress.md
